@@ -1,0 +1,1 @@
+const m=document.getElementById("menuToggle"),n=document.getElementById("navMenu");if(m&&n)m.addEventListener("click",()=>n.classList.toggle("active"));
